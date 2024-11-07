@@ -1,0 +1,2 @@
+channels_list_v1:
+1.Assume if the authorised user is not part of any channels, an empty list will be returned.
